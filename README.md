@@ -173,10 +173,6 @@ http://localhost:8501/
 
 ---
 
-## Author
-
-**Your Name**
-VTU Machine Learning Mini/Major Project
 
 ---
 
